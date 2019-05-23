@@ -1,2 +1,2 @@
 BUENAS TARDES PROFE ENVIO LAS TAREAS EN UN SOLO ARCHIVO,EL TRABAJO FUE EN CONJUNTO CON  jORGE PIÑA.GRACIAS POR EL CURSO.
-El archivo esta hecho en jupyter
+El archivo esta hecho en jupyter  
